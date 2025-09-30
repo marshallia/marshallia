@@ -1,0 +1,25 @@
+title: "Marshallia"
+description: "PhD Student in Machine Learning | Computer Vision & Generative AI"
+theme: minima
+markdown: kramdown
+author:
+  name: "Maysa Marshallia"
+  email: "marshallia@g.ncu.edu.tw"
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Research"
+    url: /research
+  - title: "Projects"
+    url: /projects
+  - title: "Blog"
+    url: /blog
+  - title: "Teaching"
+    url: /teaching
+  - title: "CV"
+    url: /cv
+  - title: "Contact"
+    url: /contact
