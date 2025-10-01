@@ -15,11 +15,11 @@ nav:
     url: /research
   - title: "Projects"
     url: /projects
-  - title: "Blog"
-    url: /blog
-  - title: "Teaching"
-    url: /teaching
-  - title: "CV"
-    url: /cv
+ # - title: "Blog"
+ #   url: /blog
+ # - title: "Teaching"
+ #   url: /teaching
+ # - title: "CV"
+ #   url: /cv
   - title: "Contact"
     url: /contact
