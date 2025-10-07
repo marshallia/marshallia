@@ -73,8 +73,3 @@ I work on Computer Vision, especially in defect detection.
 *2020 – Expected 2026*  
 - Research Focus: Computer Vision, Automatic Optical Inspection (AOI), Unsupervised Domain Adaptation (UDA), Aerial Image Segmentation  
 
----
-
-## 🌍 Volunteer Work
-- Indonesian Student Association @ NCU (2021–2022): Organized student activities.  
-- Indonesian Student Association Taiwan (2022): Coordinated Taiwan Cup nationwide sports event.  
