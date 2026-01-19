@@ -21,4 +21,5 @@ I work on Computer Vision, especially in defect detection.
 ## Oscillator Defect Detection (2021)
 ## Rice Paddy Detection (2022–2024) = MultiSpectral paddy field detection
 ## Industrial Component Classification (2024) = Sim2Real domain adaptation
-## TFT-LCD Defect Detection (2025, ongoing) = Unsupervised domain adaptation
+## TFT-LCD Defect Detection (2025, 2025) = Unsupervised domain adaptation
+## Source-Free domain adaptation for industrial domain
